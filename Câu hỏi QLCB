@@ -1,0 +1,42 @@
+Cho Biết mã loại và số hiệu máy bay đã từng xuất phát tại Mia.Các dòng dữ liệu xuất ra không bị trùng lặp.
+Cho biết mã chuyến bay, ngày đi , cùng với tên, dchi, dt của tất cả nhân viên đã được phân công trong truyến bay đó, sắp xếp theo tăng dần của chuyến bay và ngày đi giảm dần.
+Cho biết mã chuyến bay, ngày đi , cùng với tên, dchi, dt của tất cả khách hàng đã được phân công trong truyến bay đó, sắp xếp theo tăng dần của chuyến bay và ngày đi giảm dần.
+Cho biết mã CB, mã NV, TenNV được phancong vào chuyến bay ngày 10/31/2000 tại SB MIA vào lúc 20:30
+Cho biết TT về CB (MACB, SH, ML, HXS) mà phi công Quang đã lái.
+Với mỗi SB, cho biết sl chuyến bay xuất phát theo ngày. Xuất mã SBđi, ngày và Số lượng
+Với mỗi SB, cho biết sl chuyến bay hạ cánh theo ngày. Xuất mã SBđi, ngày và SL
+Với mỗi Lịch bay, cho biết MACB, Ngaydi, SL NV không phải là phi công của chuyến bay đó
+Số lượng chuyến bay xuất phát từ MIA vào ngày 01/11/2000
+Với mỗi CB, cho biết MACB, NGAYDI, SL nhanvien được phân công ở CB đó, xếp theo thứ tự giảm dần của số lượng
+Cho Biết mã CB và ngày đi của những chuyến bay có ít hơn 3 HK đặt chỗ.
+Cho biết HSX, ML và SH của MB được sử dụng nhiều nhất
+Cho biết tên nv đc pcong đi nhiều chuyến bay nhất.
+Cho biết thông tin của Phi Công( Ten, DCHI, DT) lái nhiều chuyến nhất.
+Cho biết MACB, GioDi, GioDen của chuyến bay sớm nhất trong ngày.
+Cho biết mã CB có thời gian bay dài nhất, xuất ra CB và thời gian bay = phút)
+với mỗi chuyến bay trên 3 nhân viên, cho biết MACB và SL HK đặt chỗ trên cb đó.
+Cho Biết MACB đã bay tất cả của hãng Boeing
+Cho biết mã và tên của PC có khả năng lái máy bay của Airbus
+Cho biet ngày đi nào mà có tất cả máy bay của hãng Boeing tham gia
+cho biết tên hành khách đi chuyên bay của Boeing.
+Cho biết mã chuyến bay và ngaydi của các chuyến đi có 2 HK đặt chỗ
+Cho biết hãng SX , mã loại và mã hiệu của máy bay sử dụng nhiều nhất
+Cho biết mã bay, Ngaydi, ten, dc, điện thoại của tất cả hành khách đi trên chuyến bay đó. Xếp thứ tự tăng dần mã cb và ngày đi giảm dần.
+Đối với mỗi loại máy bay có nhiều hơn 1 chiếc, cho biết số lượng chuyến bay đã được bố trí bay bằng loại máy bay đó. Xuất ra mã loại và số lượng.
+Cho biết sân bay đến và số lượng chuyến bay có ít chuyến bay đáp xuống nhất
+Cho biết sân bay đi và số lượng chuyến bay có ít chuyến bay đáp xuống nhất
+Với mỗi chuyến bay, cho biết mã chuyến bay, ngày đi, tổng lương của phu hành đoàn (các nhân viên được phân công trong chuyến bay). Sắp xếp theo thứ tự tăng dần của tổng lương
+Với mỗi chuyến bay có trên 3 hành khách, cho biết mã CB và số lượng nhân viên trên chuyến bay đó. Xuất mã CB và SL nhân viên.
+Cho biết mã PC , tên phi công đã lái máy bay chuyến bay mã số 100 vào ngày 1/11/2000
+Cho biết mã CB và ngày đi của những chuyến bay có ít nhất 2 hk đặt chỗ
+Cho biết mã số, ngày đi của các chuyến bay xuất phát từ DCA trong khoảng từ 14h đến 18h.
+Cho biết số hiệu máy bay và mã máy bay mà phi công có mã 1001 được phân công lái 2 lần
+Cho biết những chuyến bay đã bay tất cả những máy bay của hãng Boeing.
+Ch biết thông tin nhân viên phi công (tên, ĐC, Đthoại) lái nhiều chuyến bay nhất.
+cho biết lương trung bình của các phi công.
+Với mỗi phi công , cho biết hãn sản xuất và mã loại máy bay mà phi công này có khả năng bay được, Xuất ra tên Pcong, hãng sản xuất và Mã loại MB.
+Cho biết mã số, tên phi công , địa chỉ, đt của các phi công từng lái máy bay B747.
+Cho biết san bay đi và số lượng chuyến bay có nhiều hơn 2 chuyến bay xuất phát trong khoảng 10h đến 22h.
+Cho biết tên Nhan viên (k phải phi công) được phân công bay vào tất cả chuyến bay có mã 100.
+Với mỗi chuyến bay, cho biết mã chuyến bay, ngày đi cùng vs số lương hk đã đặt chỗ của cbay đó, sắp xếp theo giảm dần số lượng.
+Cho biết mã và tên phi công có khả năng lái tất cả máy bay của hãng Airbus.
